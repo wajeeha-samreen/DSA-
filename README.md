@@ -2,7 +2,7 @@
 # 50-Day DSA Challenge
 
 ## Overview
-This repository documents my journey through the **50-Day DSA Challenge** based on the Arsh Goyal DSA Sheet. The goal is to enhance my problem-solving skills by solving over **280 problems** covering various topics like arrays, graphs, and dynamic programming.
+This repository documents my journey through the **50-Day DSA Challenge** based on the Arsh Goyal DSA Sheet. The goal is to enhance my problem-solving skills by solving over **280+ problems** covering various topics like arrays, graphs, and dynamic programming.
 
 ## Challenge Structure
 - **Day 1-10**: Arrays and Strings
