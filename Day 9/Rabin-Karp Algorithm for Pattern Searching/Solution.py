@@ -1,4 +1,4 @@
-d = 256
+d = 256 #d represents the number of characters in the input alphabet. By convention, d = 256 is used because 256 is the number of possible ASCII characters
 
 def search(pat, txt, q):
     M = len(pat)
